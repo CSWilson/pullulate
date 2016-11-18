@@ -1,5 +1,5 @@
 <p align="center"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/20625/pullulate_logo.svg" width="500" alt="Pullulate"></p>
-<h6 align="center"> *Pullulate: to increase rapidly; to produce branches; or to germinate.*</h6>
+<h6 align="center"><em>Pullulate: to increase rapidly; to produce branches; or to germinate.</em></h6>
 ---
 
 ## About Pullulate
